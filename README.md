@@ -1,2 +1,5 @@
 # C.D.D.-Pratica_Pipleline
-Prática - Pipleline de Ciência de Dados
+Resposta da Prática - Pipleline de Ciência de Dados
+
+Aluno: Guilherme M. R.
+Turma: 28M4A
